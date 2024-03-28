@@ -1,0 +1,26 @@
+---
+BasedOnStyle: Google
+AlignArrayOfStructures: Right
+AlignConsecutiveAssignments:
+  PadOperators: false
+AlignConsecutiveDeclarations:
+  Enabled: true
+AlignConsecutiveShortCaseStatements:
+  Enabled: true
+  AlignCaseColons: true
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLambdasOnASingleLine: Empty
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakAfterReturnType: TopLevel
+AlwaysBreakTemplateDeclarations: No
+IndentPPDirectives: None
+IndentWidth: "4"
+InsertNewlineAtEOF: true
+MaxEmptyLinesToKeep: "1"
+PenaltyReturnTypeOnItsOwnLine: "1"
+PointerAlignment: Right
+SpacesBeforeTrailingComments: "4"
+SpacesInSquareBrackets: "true"
+SpacesInParentheses: "true"
