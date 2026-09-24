@@ -31,3 +31,12 @@ I am using only vim motions inside VSCode
 - https://thoughtbot.com/upcase/vim
 - [Overview 1/2](https://youtu.be/lWTzqPfy1gE)
 - [Overview 2/2](https://youtu.be/nBjEzQlJLHE)
+
+# librari (kb validator / MCP server)
+
+Vendored copy of the swift-crm `tools/librari` CLI — see `tools/librari/INSTALL-dotfiles.md`.
+
+```bash
+./install-librari.sh        # uv tool install → ~/.local/bin/librari
+librari --kb path/to/kb check
+```
